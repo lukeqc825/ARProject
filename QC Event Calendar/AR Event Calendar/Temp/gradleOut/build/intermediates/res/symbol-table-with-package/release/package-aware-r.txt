@@ -1,0 +1,6 @@
+com.QCComputerClub.AREventCal
+mipmap app_icon
+string app_name
+style BaseUnityTheme
+style UnityThemeSelector
+style UnityThemeSelector_Translucent
