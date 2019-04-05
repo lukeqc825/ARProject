@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/kenne/Desktop/QCEventCalTest1.apk
+C:/Users/kenne/Documents/GitHub/ARProject/Apk/QCEventCalTestCard.apk
 SceneListBegin?
 Assets/Scenes/QC Event Calendar.unity
 SceneListEnd?
